@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/servers/schema.json",
+  "name": "CaptureMind",
+  "description": "Turn Claude Desktop conversations into visual mind maps via MCP. Automatically extracts goals, problems, ideas, blockers, insights, and actions — highlighting blockers to surface where you're stuck. No extra API key needed.",
+  "license": "MIT",
+  "categories": ["knowledge", "productivity"],
+  "keywords": ["mind-map", "conversation", "claude-desktop", "mcp", "blocker", "productivity", "visualization"]
+}
