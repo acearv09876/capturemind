@@ -5,6 +5,14 @@
 
 ---
 
+## 截图 · Screenshots
+
+![CaptureMind 思维导图总览](public/capturemind.png)
+
+![节点编辑与卡点高亮](public/capturemind02.png)
+
+---
+
 ## 为什么需要它 · Why
 
 用 Claude 聊产品思路、创业方向、个人决策时，对话结束后思路往往还是散的。CaptureMind 让 Claude 在对话结束后直接把想法、目标、卡点、行动项结构化到一张导图里——尤其是**卡点（Blocker）**，会被高亮显示，帮你看清自己真正卡在哪。
