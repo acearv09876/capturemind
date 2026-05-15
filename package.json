@@ -1,22 +1,22 @@
 {
-  "name": "chat-mind",
+  "name": "capturemind",
   "version": "1.0.0",
   "description": "将 Claude 对话直接整理成思维导图",
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node http-server.js",
+    "start:mcp": "node server.js",
+    "dev": "nodemon http-server.js"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.36.0",
     "@modelcontextprotocol/sdk": "^1.29.0",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "multer": "^1.4.5-lts.1",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "tsx": "^4.0.0"
   }
 }
